@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.Dashboard {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.InputFields {
+  align-items: start;
+}
+.Landings{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  background-color: rgb(60, 255, 0);
+}
+
+.Departures{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  background-color: rgb(212, 0, 255);
+}
+
+.Instructions{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 600px;
+  width: 400px;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.HistoricalMessage{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 1000px;
+  width: 400px;
+  justify-content: center;
+  background-color: pink;
+}
+
+.UnorderedList{
+  justify-content: left;
+}
+
